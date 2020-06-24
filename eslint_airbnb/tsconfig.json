@@ -17,6 +17,7 @@
   "emitDecoratorMetadata": true,
   "skipLibCheck": true,
   "forceConsistentCasingInFileNames": true,
+  "moduleResolution": "Node",
   "baseUrl": ".",
   "paths": {
     "@controllers/*": ["./src/controllers/*"],
