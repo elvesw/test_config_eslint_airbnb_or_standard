@@ -28,7 +28,9 @@ class UsersController {
     const {
       name, email, birthYear,
     } = request.body;
-    if (!name || !email || !birthYear) { return response.status(400).json({ error: 'incomplete data' }); }
+    if (!name || !email || !birthYear) {
+      return response.status(400).json({ error: 'incomplete data' });
+    }
     let user = new User();
     idMax += 1;
     const id = idMax;
