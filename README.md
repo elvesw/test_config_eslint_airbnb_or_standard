@@ -24,13 +24,13 @@
   </a>
 </p>
 
-### eslint 7.2.0 para airbnb style
-Na data de hoje (23/06/2020) parece incompátivel para versão do eslint 7.3.0
+### eslint 7.2.0 for  airbnb style
+As of today (06/23/2020) it seems incompatible for eslint version 7.3.1
 
-### eslint 7.3.0 para standard style
+### eslint 7.3.1  for standard style
 
-#### Objetivo
-Esse repositório é para entender as diferenças na prática, afim de definir qual padrão usar, entre outras coisas para estruturar setup inicial para desenvolvimento, as referências são do video do Diego da Rocketseat nesse video [Setup para apps Node.js](https://youtu.be/rCeGfFk-uCk), assistam.
-O padrão do [airbnb](https://airbnb.io/javascript/) é o mais utilizado e tem uma documentação bem completa, e o [standard](https://standardjs.com/rules.html) na data de hoje parece está mais atualizado.
+#### objective
+This repository is to understand the differences in practice, in order to define which standard to use, among other things to structure the initial setup for development, the references are from Diego from Rocketseat in this video [Setup for Node.js apps] (https://youtu.be/rCeGfFk-uCk), watch.
+The [airbnb] standard (https://airbnb.io/javascript/) is the most used and has very complete documentation, and the [standard] (https://standardjs.com/rules.html) on the date of today it looks more updated.
 
 ### #EnfimVamosBrincar
