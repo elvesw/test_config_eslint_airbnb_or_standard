@@ -29,6 +29,9 @@ $ yarn add -D @types/express ts-node-dev tsconfig-paths
 
 # Install eslint version 7.2.0
 $ yarn add  -D eslint@7.2.0
+
+# start eslint, config and create file ".eslintrc.js"
+$ yarn eslint --init
 ```
 **How would you like to use ESLint ?** To check syntax, find problems, and enforce code style
 **What type of modules does your project use ?** JavaScript modules (import/export)
