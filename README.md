@@ -2,7 +2,7 @@
     <img alt="eslint-config-airbnb vs eslint-config-standard" title="#eslint-config-airbnb-vs-standard" src=".github/eslint_airbnb_standard.svg" height="150" />
 </h1>
 <h4 align="center"> 
-  eslint-config-airbnb vs eslint-config-standard
+  I had doubts, and I made this simple project to compare
 </h4>
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/elvesw/test_config_eslint_airbnb_or_standard?color=%2304D361">
