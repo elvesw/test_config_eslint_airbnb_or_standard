@@ -33,4 +33,6 @@ As of today (06/23/2020) it seems incompatible for eslint version 7.3.1
 This repository is to understand the differences in practice, in order to define which standard to use, among other things to structure the initial setup for development, the references are from Diego from Rocketseat in this video [Setup for Node.js apps](https://youtu.be/rCeGfFk-uCk), watch.
 The [airbnb](https://airbnb.io/javascript/) is the most used and has very complete documentation, and the [standard](https://standardjs.com/rules.html) on the date of today it looks more updated.
 
-### #EnfimVamosBrincar
+### update
+... wait, I'll show you the differences, I noticed!
+update, for both projects to have the same version of eslint.
