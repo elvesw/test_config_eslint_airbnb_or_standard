@@ -5,24 +5,35 @@
   I had doubts, and I made this simple project to compare
 </h4>
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/elvesw/test_config_eslint_airbnb_or_standard?color=%2304D361">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/elvesw/test_config_eslint_airbnb_or_standard">
-	
+  <a href="#">
+    <img alt="GitHub language count"
+    src="https://img.shields.io/github/languages/count/elvesw/test_config_eslint_airbnb_or_standard?color=%2304D361">
+  </a>
+
+  <a href="#">
+    <img alt="Repository size"
+    src="https://img.shields.io/github/repo-size/elvesw/test_config_eslint_airbnb_or_standard">
+	</a>
+
   <a href="https://www.linkedin.com/in/elves/">
-    <img alt="by Elves" src="https://img.shields.io/badge/by-Elves-%2304D361">
+    <img alt="by Elves"
+    src="https://img.shields.io/badge/by-Elves-%2304D361">
   </a>
 
   <a href="https://github.com/elvesw/test_config_eslint_airbnb_or_standard/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/elvesw/test_config_eslint_airbnb_or_standard">
+    <img alt="GitHub last commit"
+    src="https://img.shields.io/github/last-commit/elvesw/test_config_eslint_airbnb_or_standard">
   </a>
 
   <a href="https://github.com/elvesw/test_config_eslint_airbnb_or_standard/blob/master/LICENSE">
-      <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+      <img alt="License"
+      src="https://img.shields.io/badge/license-MIT-brightgreen">
   </a>
 
    <a href="https://github.com/elvesw/test_config_eslint_airbnb_or_standard/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/elvesw/test_config_eslint_airbnb_or_standard?style=social">
+    <img alt="Stargazers"
+    src="https://img.shields.io/github/stars/elvesw/test_config_eslint_airbnb_or_standard?style=social">
   </a>
 </p>
 
